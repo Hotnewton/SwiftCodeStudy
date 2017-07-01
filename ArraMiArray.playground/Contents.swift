@@ -34,3 +34,6 @@ students.append("Smith")
 students.remove(at: 2)
 
 print(students)
+
+
+var testAdded
